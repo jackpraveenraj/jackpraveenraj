@@ -21,7 +21,7 @@
 # Experience: 
 
 ### Technical Research Team Member 	    
-(ACM SIGL Student Branch SRM) - Apr 2020 - Present
+*(ACM SIGL Student Branch SRM) - Apr 2020 - Present*
 
 Working On:	
 
@@ -30,7 +30,7 @@ Working On:
 
 ### Corporate Strategy and Marketing Team Head		
 
-(ACM SIGL Student Branch SRM) - Apr 2020 - Present
+*(ACM SIGL Student Branch SRM) - Apr 2020 - Present*
 
 Events Organised:
 
@@ -38,7 +38,7 @@ Events Organised:
 
 
 ### Technical Team Member		
-(CSE Association) - Aug 2019 - Jan 2020
+*(CSE Association) - Aug 2019 - Jan 2020*
 
 Worked On:
 
