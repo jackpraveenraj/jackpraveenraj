@@ -2,6 +2,38 @@
 
 ![Banner Image](https://drive.google.com/uc?export=view&id=1pcAQTs3ZUfqDWmfk4nXykMCvxyvUd8g5)
 
+
+# Experience: 
+
+### Technical Research Team Member 	    
+(ACM SIGL Student Branch SRM) - Apr 2020 - Present
+
+Working On:	
+
+    •	Research Paper Based On Audio Refining and Distortion. (Conceptual Phase)
+
+
+### Corporate Strategy and Marketing Team Head		
+
+(ACM SIGL Student Branch SRM) - Apr 2020 - Present
+
+Events Organised:
+
+    •	Samsung Prism Phase 3
+
+
+### Technical Team Member		
+(CSE Association) - Aug 2019 - Jan 2020
+
+Worked On:
+
+    •	ULTRON 5.0 2019 Website
+
+    •	SRM University Freshers Event 2019 Website
+
+
+
+
 # Skills:
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=f34242)
