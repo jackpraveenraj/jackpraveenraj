@@ -1,6 +1,6 @@
 
 
-![Banner Image](https://drive.google.com/uc?export=view&id=1pcAQTs3ZUfqDWmfk4nXykMCvxyvUd8g5)
+![Banner Image](https://drive.google.com/uc?export=view&id=1qKIxqZ5UYdrmeGtsckzS7sMFlN6l_Og7)
 
 # Skills:
 
@@ -49,4 +49,4 @@ Worked On:
 ### :o: 3D Donut: (https://github.com/jackpraveenraj/Donut-CPP)
 ![Demo](https://raw.githubusercontent.com/jackpraveenraj/Donut-CPP/main/Donut-C.gif)
 
-![Footer Image](https://drive.google.com/uc?export=view&id=1pcAQTs3ZUfqDWmfk4nXykMCvxyvUd8g5)
+![Footer Image](https://drive.google.com/uc?export=view&id=13rBceCLxElkmVoy-IAX5Y5v11f9vCyz2)
