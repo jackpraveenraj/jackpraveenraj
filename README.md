@@ -46,5 +46,7 @@ Worked On:
 
     •	SRM University Freshers Event 2019 Website
 
-### 3D Donut: (https://github.com/jackpraveenraj/Donut-CPP)
+### :o: 3D Donut: (https://github.com/jackpraveenraj/Donut-CPP)
 ![Demo](https://raw.githubusercontent.com/jackpraveenraj/Donut-CPP/main/Donut-C.gif)
+
+![Footer Image](https://drive.google.com/uc?export=view&id=1pcAQTs3ZUfqDWmfk4nXykMCvxyvUd8g5)
