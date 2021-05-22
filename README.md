@@ -1,6 +1,6 @@
 
 
-![Banner Image](https://drive.google.com/uc?export=view&id=1R71WT1BChhq16ht4Kxntq6jGlftY6s6w)
+![Banner Image](https://drive.google.com/uc?export=view&id=1pcAQTs3ZUfqDWmfk4nXykMCvxyvUd8g5)
 
 # Skills:
 
