@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/ML-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=f34242)
 ![](https://img.shields.io/badge/ML-Matlab-informational?style=flat&logo=SmartThings&logoColor=white&color=f34242)
 
-# Project Showcase
+# Project Showcase:
 ![Jack's App Hall Of Fame](https://user-images.githubusercontent.com/74396218/133821709-8b5b2122-ef23-4a16-9896-9c9df1352a39.png)
 
 
